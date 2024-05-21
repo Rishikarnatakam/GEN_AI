@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "age": 20,
+      "major": "Computer Science"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "age": 21,
+      "major": "Electrical Engineering"
+    },
+    {
+      "firstName": "Carol",
+      "lastName": "Brown",
+      "age": 19,
+      "major": "Mathematics"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "departments": [
+    {
+      "name": "Computer Science",
+      "head": "Rishi",
+      "code": "CSE"	
+    },
+    {
+      "name": "Electrical Engineering",
+      "head": "Rohith",
+      "code": "EEE"
+    },
+    {
+      "name": "Electrical communication",
+      "head": "Tarun",
+      "code": "ECE"
+    }
+  ]
+}

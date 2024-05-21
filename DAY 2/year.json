@@ -1,0 +1,22 @@
+{
+  "years": [
+    {
+      "Level": "1st Year",
+      "HOD": "Rishi",
+      "StartDate": "2024-09-01",
+      "EndDate": "2025-05-31"
+    },
+    {
+      "Level": "2nd Year",
+      "HOD": "Rohith",
+      "StartDate": "2025-09-01",
+      "EndDate": "2026-05-31"
+    },
+    {
+      "Level": "3rd Year",
+      "HOD": "Tarun",
+      "StartDate": "2026-09-01",
+      "EndDate": "2027-05-31"
+    }
+  ]
+}

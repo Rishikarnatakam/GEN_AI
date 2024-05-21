@@ -1,0 +1,21 @@
+
+<Students>
+  <Student>
+    <FirstName>Rishi</FirstName>
+    <LastName>Kiran</LastName>
+    <Age>20</Age>
+    <Major>Computer Science</Major>
+  </Student>
+  <Student>
+    <FirstName>John</FirstName>
+    <LastName>deez</LastName>
+    <Age>21</Age>
+    <Major>Electrical Engineering</Major>
+  </Student>
+  <Student>
+    <FirstName>Joe</FirstName>
+    <LastName>Joe who</LastName>
+    <Age>19</Age>
+    <Major>Civil</Major>
+  </Student>
+</Students>
